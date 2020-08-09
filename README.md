@@ -1,4 +1,4 @@
-**ESX VEHCICLE-PUSH**
+**ESX VEHICLE-PUSH**
 
 **Features**
 * You can push broken vehicles
